@@ -1,5 +1,5 @@
 # OneScreen Launcher
-Based on Launcher3
+Based on Launcher3 from AOSP
 
 ## Overview
 Developed two customized versions of OneScreen Launcher based on **Launcher3**, using **Java**, **Kotlin** and **Jetpack Compose**. These versions focus on enhancing user experience, optimizing performance, and maintaining compatibility with OneScreen Android devices.
@@ -19,5 +19,5 @@ Both versions of the launcher have been **EDLA-approved** by **Google**, confirm
 
 ## Contact
 For more information, feel free to contact me at:  
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: shahzamanrai8@gmail.com  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shah-zaman-rai/)
